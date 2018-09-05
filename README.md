@@ -1,3 +1,10 @@
+# Executive Summary
+
+Reddit receives so many posts of a daily basis, and it is so crucial that Reddit successfully identifies the correct category of each post. Posts put in the correct category increases user engagement as it allows more users to share their knowledge with like-minded folks. While having volunteers or employees can also successfully categorize posts in their respective categories, it is a very difficult task to keep up with the large number of posts Reddit receives on a daily basis and also difficult to do so quickly. Luckily for you, my work will correctly put posts in the respective categories and ensure that users are always up to date on the latest information about the subreddit of their choice.
+
+In this data analysis report, I showcased how to extract NBA reddit posts and successfully identify future potential NBA reddit posts. I also gathered data from other subreddits to ensure that my predictions can differentiate basketball posts from other categories. As proof of how strong my predictions are, the data shows that my predictions can correctly identify 90+% of reddit posts with nba content as part of the nba subreddit. With such success, my work can take on other reddit posts and correctly identify those posts in their respective categories and in doing so, my work can save Reddit much time and money.
+
+
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 #### About the API
 
