@@ -1,3 +1,6 @@
+Here is the link to the article I wrote on Medium.com
+https://medium.com/@vijay.swamy1/using-machine-learning-to-correctly-classify-nba-reddit-posts-96d5d8ebca2
+
 # Executive Summary
 
 Reddit receives so many posts of a daily basis, and it is so crucial that Reddit successfully identifies the correct category of each post. Posts put in the correct category increases user engagement as it allows more users to share their knowledge with like-minded folks. While having volunteers or employees can also successfully categorize posts in their respective categories, it is a very difficult task to keep up with the large number of posts Reddit receives on a daily basis and also difficult to do so quickly. Luckily for you, my work will correctly put posts in the respective categories and ensure that users are always up to date on the latest information about the subreddit of their choice.
